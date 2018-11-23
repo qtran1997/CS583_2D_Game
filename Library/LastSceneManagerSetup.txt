@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/MenuScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Intro.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Level1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/BossRoom.unity
+  isLoaded: 0
+  isActive: 0
